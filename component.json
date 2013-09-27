@@ -1,0 +1,17 @@
+{
+  "name": "magazine-router",
+  "repo": "bmcmahen/magazine-router",
+  "description": "a clientside router plugin for magazine.js",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "ianstormtaylor/router" : "*",
+
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

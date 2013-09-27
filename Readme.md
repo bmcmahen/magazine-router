@@ -1,7 +1,7 @@
 
 # magazine-router
 
-  a clientside router plugin for magazine.js
+  a clientside router plugin for [magazine.js](https://github.com/bmcmahen/magazine).
 
 ## Installation
 

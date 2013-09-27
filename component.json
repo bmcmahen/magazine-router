@@ -5,8 +5,7 @@
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "ianstormtaylor/router" : "*",
-
+    "ianstormtaylor/router" : "*"
   },
   "development": {},
   "license": "MIT",
